@@ -1,0 +1,2 @@
+[gearmand]
+gearmand -d -P /var/run/gearmand.pid -l /var/log/gearmand.log -u root
