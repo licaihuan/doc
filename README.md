@@ -12,6 +12,7 @@ varnish/squid
 nginx/apache/lighttp  
 
 linux/freebsd/windows  
+swoole
 
 
 
